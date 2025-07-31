@@ -4,6 +4,7 @@
 
 This repository contains the code and models used in the analysis presented in: Barboza-Salerno, G. E. (2023). *The neighborhood deprivation gradient and child physical abuse and neglect: A Bayesian spatial model.* Child Abuse & Neglect, 146, 106501. https://doi.org/10.1016/j.chiabu.2023.106501.
 
+![converge-bayes](bayesian-can.png)
 ## Data Sources
 
 - **Area Deprivation Index (ADI):** Tract-level deprivation indicators downloaded via `sociome::get_adi()` for 2010
